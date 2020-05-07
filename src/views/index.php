@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <h1>Hi,</h1>
+  <h1>salut les amis</h1>
   <h2 id="hero"></h2>
 
   <script type="text/javascript">
